@@ -1,3 +1,7 @@
 #story {
     display: none;
 }
+
+button {
+  background-color: gray;
+}
